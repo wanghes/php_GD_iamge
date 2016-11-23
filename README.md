@@ -1,5 +1,5 @@
 # php_GD_image
-**image scale and mark**
+[**image scale and mark**](http://mousebird.cn/blog/2016/11/23/9),mousebord.cn
 ##首先要制作一个文字水印   
 准备的材料有两个：一个是要添加水印的图片，一个是添加到水印上的文字（我这里面使用微软雅黑字体【wryh.tif】）   
 ```php
@@ -118,4 +118,4 @@ imagedestroy($imageThumb);
 
 以上就是图片加文字水印，图片加图片水印，图片略缩的过程代码   
 
-[线上文章URL](http://mousebird.cn/blog/2016/11/23/9),mousebord.cn
+
