@@ -117,3 +117,4 @@ imagedestroy($imageThumb);
 ```
 
 以上就是图片加文字水印，图片加图片水印，图片略缩的过程代码
+[线上文章URL](http://mousebird.cn/blog/2016/11/23/9)
