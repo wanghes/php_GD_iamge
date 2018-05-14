@@ -1,6 +1,6 @@
 # php_GD_image
 [**image scale and mark**](http://mousebird.cn/blog/2016/11/23/9),mousebord.cn
-##首先要制作一个文字水印   
+## 首先要制作一个文字水印   
 准备的材料有两个：一个是要添加水印的图片，一个是添加到水印上的文字（我这里面使用微软雅黑字体【wryh.tif】）   
 ```php
 //文字水印
@@ -42,7 +42,7 @@ $func($image);
 $func($image,'images/cc.png');
 imagedestroy($image);
 ```
-##制作一个图片水印
+## 制作一个图片水印
 准备一个水印图片，和一个要添加水印的图片
 ```php
 //图片水印
@@ -84,7 +84,7 @@ $func($image,'images/cc2.png');
 
 imagedestroy($image);
 ```
-##最后制作一个略缩图
+## 最后制作一个略缩图
 略缩图只需要一张要略缩的图片即可
 ```php
 //图片略缩图
